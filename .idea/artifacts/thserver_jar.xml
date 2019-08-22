@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="thserver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/thserver_jar</output-path>
+    <root id="archive" name="thserver.jar">
+      <element id="module-output" name="thserver" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Downloads/mysql-connector-java-5.1.48 2/mysql-connector-java-5.1.48-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
